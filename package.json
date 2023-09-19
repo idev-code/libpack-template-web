@@ -1,12 +1,12 @@
 {
   "name": "libpack-template-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "libpacks",
     "template"
   ],
-  "description": "The base template for Create React App.",
+  "description": "The base template for Lib Pack React.",
   "repository": {
     "type": "git",
     "url": "https://github.com/idev-code/libpack-template-web.git",
